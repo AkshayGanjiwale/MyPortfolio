@@ -1,0 +1,81 @@
+.hero{
+    background-color: #D6EFD8;
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-family: "Dancing Script", cursive;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    color: cornflowerblue;
+    margin: 50px 0px;
+}
+.title span{
+    font-family: "Dancing Script", cursive;
+    font-weight: 600;
+    font-size: 70px;
+}
+.cloudRight{
+    width: 180px;
+    position: absolute;
+    left: 800px;
+    top: 50px;
+}
+.cloudLeft{
+    width: 180px;
+    position: absolute;
+    left: 150px;
+    bottom: 200px;
+    top: 354px;
+}
+.profile img{
+    border-radius: 50%;
+    height: 160px;
+}
+.heading{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+.text-body-emphasis{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+.fa{
+    color: red;
+}
+hr{
+    border: dotted #8fd5d5 6px;
+    border-bottom: none;
+    width: 80px;
+    margin: 100px auto;
+}
+.logo img{
+    width: 100px;
+}
+h4{
+    text-align: center;
+    padding: 5px;
+    color: #478CCF;
+    font-size: medium;
+}
+.contact-btn{
+    text-align: center;
+}
+.nav-link:hover{
+    color: white;
+}
+.nav-link{
+    color:#20a096 ;
+}
+.footer{
+    background-color: #6bbca1
+}
